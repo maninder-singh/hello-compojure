@@ -10,6 +10,8 @@ A rest api with ui developed using compojure and angularjs.This provides a boile
 
 ### Run application
 
+* Open project.cli file and comment `:jvm-opts` option.
+
 ```
 $ cd hello-compojure/resources/public/hello
 $ npm install
