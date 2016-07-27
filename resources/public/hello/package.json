@@ -1,0 +1,13 @@
+{
+  "name": "hello-compojure",
+  "description": "Hello Compojure App with angularjs and requirejs",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular":"1.5.5",
+    "angular-route": "1.5.5",
+    "jquery": "1.11.0",
+    "requirejs":"2.1.9",
+    "text": "github:requirejs/text"
+  }
+}
